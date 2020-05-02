@@ -1,1 +1,3 @@
 class StaticController < ApplicationController
+  
+  
